@@ -1,4 +1,4 @@
-import subject from './move-zeros-to-the-left'
+import subject from './move-zeros-to-the-left-immutable'
 
 describe('moveZerosToLeft', () => {
   it('imports without errors', () => {
