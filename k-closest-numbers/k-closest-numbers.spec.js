@@ -1,4 +1,4 @@
-import subject from './k-closest'
+import subject from './k-closest-numbers'
 
 describe('k closest numbers', () => {
   const list = [-35, -7, -1, 0, 1, 5, 10, 11, 25]
